@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-p4ezz7^q+hqs89bh%4vhrlb81d^u6z4%#-2ja51z7cha5*krsi
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-zoemacf-boutiqeadoproje-8gg23rc5te1.ws-eu110.gitpod.io','https://boutique-ado-pp5-prep-4bc2a16570e3.herokuapp.com/']
+ALLOWED_HOSTS = ['8000-zoemacf-boutiqeadoproje-8gg23rc5te1.ws-eu110.gitpod.io','boutique-ado-pp5-prep-4bc2a16570e3.herokuapp.com']
 
 
 # Application definition
